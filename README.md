@@ -7,4 +7,4 @@ This repository contains the all files submitted for evaluation on the <a href="
 <li><a href="https://github.com/joao-romao/Coursera_Capstone/blob/master/The_Battle_of_the_Neighborhoods_Report.pdf">Report</a></li>
 <li><a href="https://github.com/joao-romao/Coursera_Capstone/blob/master/The_Battle_of_Neighborhoods_Presentation%20.pdf">Presentation</a></li></ul> 
 
-<sup>1</sup> Note: folium maps are not rendering when the Notebook is displayed on GitHub. Please, paste the URL on <a href="https://nbviewer.jupyter.org/">nbviewer</a> to see all the material.
+<sup>1</sup> <b>Note</b>: folium maps are not rendering when the Notebook is displayed on GitHub. Please, paste the Notebook's URL on <a href="https://nbviewer.jupyter.org/">nbviewer</a> to see all the material.
